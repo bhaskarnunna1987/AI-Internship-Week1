@@ -108,7 +108,7 @@ AI-Internship-Week1
 
 ## Author
 
-Harish Chandra
+Nunna Harish Chandra Surya Bhaskar
 
 AI Intern
 
